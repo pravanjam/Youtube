@@ -32,8 +32,8 @@ subid="false"
 playlistid="PLo1pb3Ijm7icm1qGTW1NEUz5kBpzYlACj"
 channelid="false"
 videoid="false"
-icon="https://raw.githubusercontent.com/pravanjam/YoutubeSerial/YoutubeSerial/icons/EdhuvumNadakkum/icon.jpg"
-fanart="https://raw.githubusercontent.com/pravanjam/YoutubeSerial/YoutubeSerial/icons/EdhuvumNadakkum/fanart.jpg"
+icon="https://raw.githubusercontent.com/pravanjam/YoutubeSerial/YoutubeSerial/icons/EdhuvumNadakkum/icon.JPG"
+fanart="https://raw.githubusercontent.com/pravanjam/YoutubeSerial/YoutubeSerial/icons/EdhuvumNadakkum/fanart.JPG"
 description="Edhuvum Nadakkum - Marma Desam"
 
 
