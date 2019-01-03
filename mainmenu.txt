@@ -10,7 +10,17 @@ fanart="https://raw.githubusercontent.com/pravanjam/YoutubeSerial/YoutubeSerial/
 description="Vidathu Karuppu - Marma Desam"
 
 
-
+name="Sivamayam"
+section="false"
+search="false"
+subid="false"
+playlistid="PLormYfA9XqyA4AQpJMqCkZGd05OE4tsPl"
+channelid="false"
+videoid="false"
+icon="https://raw.githubusercontent.com/pravanjam/YoutubeSerial/YoutubeSerial/icons/Sivamayam/icon.jpg"
+fanart="https://raw.githubusercontent.com/pravanjam/YoutubeSerial/YoutubeSerial/icons/Sivamayam/fanart.jpg"
+description="Sivamayam"
+ 
 
 name="Rudhra Veenai"
 section="false"
