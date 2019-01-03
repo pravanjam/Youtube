@@ -69,8 +69,8 @@ subid="false"
 playlistid="PLo1pb3Ijm7ifJ3tzrSwpcoCd_ben4Rd6-"
 channelid="false"
 videoid="false"
-icon="https://raw.githubusercontent.com/pravanjam/YoutubeSerial/YoutubeSerial/icons/IyanthiraParavai/icon.jpg"
-fanart="https://raw.githubusercontent.com/pravanjam/YoutubeSerial/YoutubeSerial/icons/IyanthiraParavai/fanart.jpg"
+icon="https://raw.githubusercontent.com/pravanjam/YoutubeSerial/YoutubeSerial/icons/IyanthiraParavai/icon.JPG"
+fanart="https://raw.githubusercontent.com/pravanjam/YoutubeSerial/YoutubeSerial/icons/IyanthiraParavai/fanart.JPG"
 description="Iyanthira Paravai - Marma Desam"
 
 
