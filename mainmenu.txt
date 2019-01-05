@@ -10,6 +10,17 @@ fanart="https://raw.githubusercontent.com/pravanjam/YoutubeSerial/YoutubeSerial/
 description="Edmonton Journal"
 
 
+name="Black Sheep"
+section="false"
+search="false"
+subid="false"
+playlistid="false"
+channelid="UCzh5hQc_O3r3xjh9sXrM7-A"
+videoid="false"
+icon="https://raw.githubusercontent.com/pravanjam/YoutubeSerial/YoutubeSerial/icons/BlackSheep/icon.jpg"
+fanart="https://raw.githubusercontent.com/pravanjam/YoutubeSerial/YoutubeSerial/icons/BlackSheep/fanart.jpg"
+description="Black Sheep"
+
 name="Vidathu Karuppu (1997)"
 section="false"
 search="false"
