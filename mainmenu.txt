@@ -5,8 +5,8 @@ subid="false"
 playlistid="PLphBjZVKEgMgIxcgpii3ad35CPP8Cuv6b"
 channelid="false"
 videoid="false"
-icon="https://raw.githubusercontent.com/pravanjam/YoutubeSerial/YoutubeSerial/icons/VidathuKaruppu/EdmontonJournal.JPG"
-fanart="https://raw.githubusercontent.com/pravanjam/YoutubeSerial/YoutubeSerial/icons/VidathuKaruppu/EdmontonJournal.JPG"
+icon="https://raw.githubusercontent.com/pravanjam/YoutubeSerial/YoutubeSerial/icons/EdmontonJournal.jpg"
+fanart="https://raw.githubusercontent.com/pravanjam/YoutubeSerial/YoutubeSerial/icons/EdmontonJournal.JPG"
 description="Edmonton Journal"
 
 
@@ -32,6 +32,18 @@ videoid="false"
 icon="https://raw.githubusercontent.com/pravanjam/YoutubeSerial/YoutubeSerial/icons/Sivamayam/icon.jpg"
 fanart="https://raw.githubusercontent.com/pravanjam/YoutubeSerial/YoutubeSerial/icons/Sivamayam/fanart.jpg"
 description="Sivamayam"
+ 
+
+name="Thiruvilayadal"
+section="false"
+search="false"
+subid="false"
+playlistid="PLormYfA9XqyCrfnmKhFZnEo8K4Q6cKJ4Q"
+channelid="false"
+videoid="false"
+icon="https://raw.githubusercontent.com/pravanjam/YoutubeSerial/YoutubeSerial/icons/Thiruvilayadal/icon.JPG"
+fanart="https://raw.githubusercontent.com/pravanjam/YoutubeSerial/YoutubeSerial/icons/Thiruvilayadal/fanart.JPG"
+description="thiruvilayadal"
  
 
 name="Rudhra Veenai"
