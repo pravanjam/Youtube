@@ -21,6 +21,17 @@ icon="https://raw.githubusercontent.com/pravanjam/YoutubeSerial/YoutubeSerial/ic
 fanart="https://raw.githubusercontent.com/pravanjam/YoutubeSerial/YoutubeSerial/icons/BlackSheep/fanart.jpg"
 description="Black Sheep"
 
+name="Tamil Mahabharatham"
+section="false"
+search="false"
+subid="false"
+playlistid="PLVULiYE1WsqzbwU0GlRQsLeVlSxDy61i9"
+channelid="false"
+videoid="false"
+icon="https://raw.githubusercontent.com/pravanjam/YoutubeSerial/YoutubeSerial/icons/TamilMahabharatham/icon.jpg"
+fanart="https://raw.githubusercontent.com/pravanjam/YoutubeSerial/YoutubeSerial/icons/TamilMahabharatham/fanart.jpg"
+description="Tamil Mahabharatham"
+
 name="Vidathu Karuppu (1997)"
 section="false"
 search="false"
