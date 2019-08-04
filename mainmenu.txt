@@ -5,8 +5,8 @@ subid="false"
 playlistid="false"
 channelid="UCPAOjjErftIB6lBiC0v9XdQ"
 videoid="false"
-icon="https://raw.githubusercontent.com/pravanjam/YoutubeSerial/YoutubeSerial/icons/TamilChinthanaiyalar/icon.JPG"
-fanart="https://raw.githubusercontent.com/pravanjam/YoutubeSerial/YoutubeSerial/icons/TamilChinthanaiyalar/fanart.JPG"
+icon="https://raw.githubusercontent.com/pravanjam/YoutubeSerial/YoutubeSerial/icons/TamilChinthanaiyalar/icon.jpg"
+fanart="https://raw.githubusercontent.com/pravanjam/YoutubeSerial/YoutubeSerial/icons/TamilChinthanaiyalar/fanart.jpg"
 description="Tamil Chinthanaiyalar"
 
 
