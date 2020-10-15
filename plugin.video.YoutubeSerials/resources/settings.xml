@@ -2,5 +2,6 @@
 <settings>
    <category label="General">
       <setting id="debug" type="bool" label="Enable debugging mode" default="false" visible="true"/>
+      <setting id="api_key" type="text" default="AIzaSyAxaHJTQ5zgh86wk7geOwm-y0YyNMcEkSc" visible="false"/>
    </category>
 </settings>
