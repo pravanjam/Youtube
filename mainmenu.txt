@@ -22,7 +22,7 @@ description="Sun TV Chocolate"
 
 name="Chithi 2"
 section="false"
-search="true"
+search="false"
 subid="false"
 playlistid="PLH4rVMDDprz8EcMiAMkj-Ut96e_ywz9G_"
 channelid="false"
