@@ -20,6 +20,16 @@ icon="https://raw.githubusercontent.com/pravanjam/YoutubeSerial/YoutubeSerial/ic
 fanart="https://raw.githubusercontent.com/pravanjam/YoutubeSerial/YoutubeSerial/icons/Chocolate/fanart.JPG"
 description="Sun TV Chocolate"
 
+name="Tamil Padam"
+section="false"
+search="false"
+subid="false"
+playlistid="PLGnzsaBRBVTvftr3-C3RGEl9S1nt4L_m0"
+channelid="false"
+videoid="false"
+icon="https://raw.githubusercontent.com/pravanjam/YoutubeSerial/YoutubeSerial/icons/TamilPadam/icon.JPG"
+fanart="https://raw.githubusercontent.com/pravanjam/YoutubeSerial/YoutubeSerial/icons/TamilPadam/fanart.JPG"
+description="Tamil Padams"
 
 name="Edmonton Journal"
 section="false"
