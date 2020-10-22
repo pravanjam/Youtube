@@ -53,6 +53,18 @@ icon="https://globalnews.ca/wp-content/uploads/2018/03/new_square-e1527639599961
 fanart="https://images.unsplash.com/photo-1573812195421-50a396d17893?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1868&q=80"
 description="Global News"
 
+
+name="Tamil News 7"
+section="false"
+search="false"
+subid="false"
+playlistid="false"
+channelid="false"
+videoid="M9o2BgbX93g"
+icon="https://yt3.ggpht.com/a/AATXAJx1_6pcpExxbY9lskt4c950OMB8bIFkkY_NbO4YEQ=s900-c-k-c0x00ffffff-no-rj"
+fanart="https://images.unsplash.com/photo-1573812195421-50a396d17893?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1868&q=80"
+description="Tamil News"
+
 name="Vikatan"
 section="false"
 search="false"
