@@ -1,4 +1,4 @@
-Name="Vig List" 
+name="Vig List" 
 section="false"
 search="false"
 subid="false"
