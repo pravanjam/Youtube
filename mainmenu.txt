@@ -109,6 +109,17 @@ icon="https://upload.wikimedia.org/wikipedia/en/0/06/Chithi_%E2%80%93_2_serial.j
 fanart="https://upload.wikimedia.org/wikipedia/en/0/06/Chithi_%E2%80%93_2_serial.jpg"
 description="Chithi 2"
 
+name="Anbe Vaa"
+section="false"
+search="false"
+subid="false"
+playlistid="PLpBf-cvWAe9JX72qcmoPvmQDdarw922wl"
+channelid="false"
+videoid="false"
+icon="https://i.ytimg.com/vi/BvsfDh0XOZk/maxresdefault.jpg"
+fanart="https://i.ytimg.com/vi/BvsfDh0XOZk/maxresdefault.jpg"
+description="Anbe Vaa"
+
 name="Black Sheep"
 section="false"
 search="false"
