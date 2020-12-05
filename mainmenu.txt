@@ -42,6 +42,17 @@ icon="https://yt3.ggpht.com/a/AATXAJx1_6pcpExxbY9lskt4c950OMB8bIFkkY_NbO4YEQ=s90
 fanart="https://images.unsplash.com/photo-1573812195421-50a396d17893?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1868&q=80"
 description="Tamil News"
 
+name="thanthi New"
+section="false"
+search="false"
+subid="false"
+playlistid="false"
+channelid="false"
+videoid="wc3Y6vI-poI"
+icon="https://play-lh.googleusercontent.com/GFByxwuaKn8oWF-rXPEmbcS_jUQE7_yjgjXogK02u4bHec1jad59e16i4uoU3HV_uDM"
+fanart="https://images.unsplash.com/photo-1573812195421-50a396d17893?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1868&q=80"
+description="Tamil News"
+
 name="Puthiya Thalaaimurai"
 section="false"
 search="false"
