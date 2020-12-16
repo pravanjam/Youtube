@@ -119,6 +119,16 @@ icon="https://raw.githubusercontent.com/pravanjam/YoutubeSerial/YoutubeSerial/ic
 fanart="https://raw.githubusercontent.com/pravanjam/YoutubeSerial/YoutubeSerial/icons/OldTamilMovies/fanart.JPG"
 description="Old Tamil Movies"
 
+name="Yamiruke Bayamen"
+section="false"
+search="false"
+subid="false"
+playlistid="PLvYJpXh-W1Bce19tVoAR6-cxnoN9yWw4E"
+channelid="false"
+videoid="false"
+icon="https://i.ytimg.com/vi/T67gcAwwizE/maxresdefault.jpg"
+fanart="https://i.ytimg.com/vi/T67gcAwwizE/maxresdefault.jpg"
+description="Yamiruke Bayamen"
 
 name="Chithi 2"
 section="false"
