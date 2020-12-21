@@ -9,6 +9,18 @@ icon="https://images.app.goo.gl/wJzBdnquEZrLfmDM6"
 fanart="https://images.app.goo.gl/wJzBdnquEZrLfmDM6"
 description="random"
 
+name="Bhara List" 
+section="false"
+search="false"
+subid="false"
+playlistid="PLahzbTzr1QuNGxxhpeKzW_iDDtQxVeATY"
+channelid="false"
+videoid="false"
+icon="https://images.app.goo.gl/wJzBdnquEZrLfmDM6"
+fanart="https://images.app.goo.gl/wJzBdnquEZrLfmDM6"
+description="random"
+
+
 name="Edmonton Journal"
 section="false"
 search="false"
