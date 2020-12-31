@@ -109,17 +109,6 @@ icon="https://lh3.googleusercontent.com/MiFf3e7P8wLZuE0PrrAcUZnQYRJhpfo7YAXgPAkn
 fanart="https://lh3.googleusercontent.com/MiFf3e7P8wLZuE0PrrAcUZnQYRJhpfo7YAXgPAknL7vgHe4JJG0z77fyu-TyI1sU-4GW"
 description="recent tamil movies"
 
-name="Random Tamil Movies"
-section="false"
-search="false"
-subid="false"
-playlistid="false"
-channelid="UCZbUIhhSTph8sFt8glw-NXg"
-videoid="false"
-icon="https://bit.ly/3dQcG8h"
-fanart="https://bit.ly/3dQcG8h"
-description="Tamil dub movies"
-
 name="Old Tamil Movies"
 section="false"
 search="false"
