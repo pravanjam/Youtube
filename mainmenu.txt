@@ -208,6 +208,16 @@ icon="https://raw.githubusercontent.com/pravanjam/YoutubeSerial/YoutubeSerial/ic
 fanart="https://raw.githubusercontent.com/pravanjam/YoutubeSerial/YoutubeSerial/icons/VidathuKaruppu/fanart.jpg"
 description="Vidathu Karuppu - Marma Desam"
 
+name="Ragasiyam"
+section="false"
+search="false"
+subid="false"
+playlistid="PL00KwWvjzAFC5rXcuoV_8nQCxpWLzYxr5"
+channelid="false"
+videoid="false"
+icon="https://i.ytimg.com/vi/Br1HjySzSzU/maxresdefault.jpg"
+fanart="https://i.ytimg.com/vi/r8JI-KG4IVo/maxresdefault.jpg"
+description="Marma Desam"
 
 name="Sivamayam"
 section="false"
